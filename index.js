@@ -22,3 +22,4 @@ for(let expenseQuestion = 0; expenseQuestion < annualExpenseQuestions.length; ex
     console.log(answer);
     annualExpenses = annualExpenses + answer;
     }
+    
